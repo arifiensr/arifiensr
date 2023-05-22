@@ -6,7 +6,7 @@ I started learning programming in January 2023 after switching careers from a co
 
 * 🌍  I'm based in Jambi, Indonesia
 * ✉️  You can contact me at [arifiensr@gmail.com](mailto:arifiensr@gmail.com)
-* 🚀  I'm currently working on [Katflix Movie Streaming](http://arifiensr.github.io/katflix-react)
+* 🚀  I'm currently working on [Photologue Photo Sharing](https://photologue.netlify.app/)
 * 🧠  I'm currently learning Tailwind CSS
 * 🤝  I'm open to collaborating on interesting projects as front-end developer
 
