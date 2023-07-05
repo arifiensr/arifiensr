@@ -2,13 +2,13 @@
 
 ## My name is Muhammad Arifien Syachrizal - Front-End Developer Enthusiast
 
-I started learning programming in January 2023 after switching careers from a contractor. I'm skilled at creating responsive websites using React and Bootstrap. Eager to face more challenges by learning new knowledge to make a perfect website.
+I started learning programming in January 2023 after switching careers from a contractor. I'm skilled at creating responsive websites using React, Tailwind, and Bootstrap. Eager to face more challenges by learning new knowledge to make a perfect website.
 
 * 🌍  I'm based in Jambi, Indonesia
 * ✉️  You can contact me at [arifiensr@gmail.com](mailto:arifiensr@gmail.com)
 * 🚀  I'm currently working on [Photologue Photo Sharing](https://photologue.netlify.app/)
-* 🧠  I'm currently learning Tailwind CSS
-* 🤝  I'm open to collaborating on interesting projects as front-end developer
+* 🧠  I'm currently learning Node.js
+* 🤝  I'm open to collaborating on interesting projects as a front-end developer
 
 ### Skills
 
