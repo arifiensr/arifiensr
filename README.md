@@ -1,14 +1,14 @@
 # Hello, World\! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
 
-## My name is Muhammad Arifien Syachrizal - Front-End Developer Enthusiast
+## My name is Muhammad Arifien Syachrizal - Back-End Developer
 
-I started learning programming in January 2023 after switching careers from a contractor. I'm skilled at creating responsive websites using React, Tailwind, and Bootstrap. Eager to face more challenges by learning new knowledge to make a perfect website.
+I started learning programming in January 2023 after switching careers from a contractor. I'm skilled at creating responsive websites using ReactJS, Tailwind, Bootstrap, and fast Restful API using NestJs with microservice architecture. Eager to face more challenges by learning new knowledge to make a perfect website.
 
-* 🌍  I'm based in Jambi, Indonesia
+* 🌍  I'm based in Bandung, Indonesia
 * ✉️  You can contact me at [arifiensr@gmail.com](mailto:arifiensr@gmail.com)
-* 🚀  I'm currently working on [Photologue Photo Sharing](https://photologue.netlify.app/)
-* 🧠  I'm currently learning Node.js
-* 🤝  I'm open to collaborating on interesting projects as a front-end developer
+* 🚀  I'm currently working on Online Learning Application
+* 🧠  I'm currently learning Golang
+* 🤝  I'm open to collaborating on interesting projects as a back-end developer
 
 ### Skills
 
